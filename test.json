@@ -1,7 +1,7 @@
 {
-    "url": "https://swaggerxss.com/test.yaml",
+    "url": "http://gr3yn00b.github.io/swagger-xss/test.yaml",
     "urls": [{
-        "url": "https://swaggerxss.com/test.yaml",
+        "url": "http://gr3yn00b.github.io/swagger-xss/test.yaml",
         "name": "Foo"
     }]
 }
